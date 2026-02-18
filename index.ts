@@ -142,4 +142,5 @@ else {
   console.log(`Perintah:`);
   console.log(` Tambah : bun run index.ts "isi catatan"`);
   console.log(` Lihat : bun run index.ts list`);
-  console.log(` Edit : bun run index.ts update [nomor] "isi baru"`);}
+  console.log(` Edit : bun run index.ts update [nomor] "isi baru"`);
+}
